@@ -1,0 +1,193 @@
+Period,Country,Area type,Area code,Area name,Sex,Sex code,Age group,Age code,HLE,LCI,UCI,Proportion (%)
+2011 to 2013,England,Local Areas,E06000006,Halton,Male,1,<1,1,58.4,56.1,60.6,76
+2011 to 2013,England,Local Areas,E06000006,Halton,Female,2,<1,1,58.7,56.3,61.2,73
+2011 to 2013,England,Local Areas,E08000011,Knowsley,Male,1,<1,1,57.2,55.0,59.4,75
+2011 to 2013,England,Local Areas,E08000011,Knowsley,Female,2,<1,1,58.0,55.6,60.4,72
+2011 to 2013,England,Local Areas,E08000012,Liverpool,Male,1,<1,1,57.2,55.3,59.1,75
+2011 to 2013,England,Local Areas,E08000012,Liverpool,Female,2,<1,1,58.0,55.8,60.2,72
+2011 to 2013,England,Local Areas,E08000013,St. Helens,Male,1,<1,1,61.3,59.2,63.4,79
+2011 to 2013,England,Local Areas,E08000013,St. Helens,Female,2,<1,1,62.1,59.9,64.4,76
+2011 to 2013,England,Local Areas,E08000014,Sefton,Male,1,<1,1,61.7,59.5,63.9,79
+2011 to 2013,England,Local Areas,E08000014,Sefton,Female,2,<1,1,63.1,61.0,65.3,77
+2011 to 2013,England,Local Areas,E08000015,Wirral,Male,1,<1,1,60.2,58.2,62.3,77
+2011 to 2013,England,Local Areas,E08000015,Wirral,Female,2,<1,1,61.6,59.3,63.9,75
+2011 to 2013,England,Country,E92000001,England,Male,1,<1,1,63.0,62.9,63.2,80
+2011 to 2013,England,Country,E92000001,England,Female,2,<1,1,63.9,63.7,64.1,77
+2012 to 2014,England,Local Areas,E06000006,Halton,Male,1,<1,1,58.8,56.5,61.1,76
+2012 to 2014,England,Local Areas,E06000006,Halton,Female,2,<1,1,59.3,57.0,61.6,74
+2012 to 2014,England,Local Areas,E08000011,Knowsley,Male,1,<1,1,58.0,55.6,60.4,76
+2012 to 2014,England,Local Areas,E08000011,Knowsley,Female,2,<1,1,58.6,56.1,61.0,73
+2012 to 2014,England,Local Areas,E08000012,Liverpool,Male,1,<1,1,57.5,55.5,59.4,75
+2012 to 2014,England,Local Areas,E08000012,Liverpool,Female,2,<1,1,58.2,56.0,60.4,72
+2012 to 2014,England,Local Areas,E08000013,St. Helens,Male,1,<1,1,60.7,58.6,62.8,78
+2012 to 2014,England,Local Areas,E08000013,St. Helens,Female,2,<1,1,61.4,59.1,63.7,75
+2012 to 2014,England,Local Areas,E08000014,Sefton,Male,1,<1,1,60.9,58.6,63.2,78
+2012 to 2014,England,Local Areas,E08000014,Sefton,Female,2,<1,1,62.0,59.9,64.2,75
+2012 to 2014,England,Local Areas,E08000015,Wirral,Male,1,<1,1,59.8,57.6,62.0,77
+2012 to 2014,England,Local Areas,E08000015,Wirral,Female,2,<1,1,60.8,58.3,63.2,74
+2012 to 2014,England,Country,E92000001,England,Male,1,<1,1,63.2,63.0,63.4,80
+2012 to 2014,England,Country,E92000001,England,Female,2,<1,1,63.9,63.8,64.1,77
+2013 to 2015,England,Local Areas,E06000006,Halton,Male,1,<1,1,59.2,56.9,61.5,76
+2013 to 2015,England,Local Areas,E06000006,Halton,Female,2,<1,1,59.9,57.6,62.3,74
+2013 to 2015,England,Local Areas,E08000011,Knowsley,Male,1,<1,1,57.6,55.2,60.1,75
+2013 to 2015,England,Local Areas,E08000011,Knowsley,Female,2,<1,1,58.5,55.9,61.0,73
+2013 to 2015,England,Local Areas,E08000012,Liverpool,Male,1,<1,1,57.0,55.0,59.0,75
+2013 to 2015,England,Local Areas,E08000012,Liverpool,Female,2,<1,1,58.0,55.7,60.3,72
+2013 to 2015,England,Local Areas,E08000013,St. Helens,Male,1,<1,1,59.9,57.7,62.1,77
+2013 to 2015,England,Local Areas,E08000013,St. Helens,Female,2,<1,1,60.9,58.4,63.3,75
+2013 to 2015,England,Local Areas,E08000014,Sefton,Male,1,<1,1,61.6,59.3,63.8,79
+2013 to 2015,England,Local Areas,E08000014,Sefton,Female,2,<1,1,62.9,60.7,65.1,77
+2013 to 2015,England,Local Areas,E08000015,Wirral,Male,1,<1,1,60.5,58.2,62.7,78
+2013 to 2015,England,Local Areas,E08000015,Wirral,Female,2,<1,1,61.7,59.3,64.1,75
+2013 to 2015,England,Country,E92000001,England,Male,1,<1,1,63.2,63.0,63.4,80
+2013 to 2015,England,Country,E92000001,England,Female,2,<1,1,64.2,64.0,64.4,77
+2014 to 2016,England,Local Areas,E06000006,Halton,Male,1,<1,1,59.0,56.7,61.4,76
+2014 to 2016,England,Local Areas,E06000006,Halton,Female,2,<1,1,59.5,57.1,61.9,74
+2014 to 2016,England,Local Areas,E08000011,Knowsley,Male,1,<1,1,58.0,55.7,60.3,76
+2014 to 2016,England,Local Areas,E08000011,Knowsley,Female,2,<1,1,58.5,55.9,61.1,73
+2014 to 2016,England,Local Areas,E08000012,Liverpool,Male,1,<1,1,57.5,55.4,59.5,75
+2014 to 2016,England,Local Areas,E08000012,Liverpool,Female,2,<1,1,58.1,55.7,60.4,72
+2014 to 2016,England,Local Areas,E08000013,St. Helens,Male,1,<1,1,59.2,56.8,61.5,76
+2014 to 2016,England,Local Areas,E08000013,St. Helens,Female,2,<1,1,59.7,57.1,62.3,74
+2014 to 2016,England,Local Areas,E08000014,Sefton,Male,1,<1,1,60.9,58.7,63.1,78
+2014 to 2016,England,Local Areas,E08000014,Sefton,Female,2,<1,1,61.9,59.5,64.3,75
+2014 to 2016,England,Local Areas,E08000015,Wirral,Male,1,<1,1,60.1,57.8,62.4,77
+2014 to 2016,England,Local Areas,E08000015,Wirral,Female,2,<1,1,60.8,58.3,63.3,75
+2014 to 2016,England,Country,E92000001,England,Male,1,<1,1,63.3,63.1,63.5,80
+2014 to 2016,England,Country,E92000001,England,Female,2,<1,1,64.0,63.8,64.3,77
+2015 to 2017,England,Local Areas,E06000006,Halton,Male,1,<1,1,58.8,56.4,61.2,76
+2015 to 2017,England,Local Areas,E06000006,Halton,Female,2,<1,1,59.3,56.8,61.8,74
+2015 to 2017,England,Local Areas,E08000011,Knowsley,Male,1,<1,1,58.1,55.7,60.5,76
+2015 to 2017,England,Local Areas,E08000011,Knowsley,Female,2,<1,1,58.9,56.3,61.5,73
+2015 to 2017,England,Local Areas,E08000012,Liverpool,Male,1,<1,1,58.6,56.4,60.7,77
+2015 to 2017,England,Local Areas,E08000012,Liverpool,Female,2,<1,1,59.6,57.3,61.9,74
+2015 to 2017,England,Local Areas,E08000013,St. Helens,Male,1,<1,1,57.9,55.4,60.4,75
+2015 to 2017,England,Local Areas,E08000013,St. Helens,Female,2,<1,1,58.3,55.5,61.0,72
+2015 to 2017,England,Local Areas,E08000014,Sefton,Male,1,<1,1,61.8,59.7,64.0,78
+2015 to 2017,England,Local Areas,E08000014,Sefton,Female,2,<1,1,62.7,60.3,65.1,76
+2015 to 2017,England,Local Areas,E08000015,Wirral,Male,1,<1,1,60.0,57.6,62.5,77
+2015 to 2017,England,Local Areas,E08000015,Wirral,Female,2,<1,1,60.8,58.3,63.3,74
+2015 to 2017,England,Country,E92000001,England,Male,1,<1,1,63.3,63.2,63.5,80
+2015 to 2017,England,Country,E92000001,England,Female,2,<1,1,64.0,63.8,64.2,77
+2016 to 2018,England,Local Areas,E06000006,Halton,Male,1,<1,1,58.6,56.1,61.0,76
+2016 to 2018,England,Local Areas,E06000006,Halton,Female,2,<1,1,59.3,56.7,61.9,73
+2016 to 2018,England,Local Areas,E08000011,Knowsley,Male,1,<1,1,58.6,56.1,61.0,76
+2016 to 2018,England,Local Areas,E08000011,Knowsley,Female,2,<1,1,59.2,56.5,61.8,74
+2016 to 2018,England,Local Areas,E08000012,Liverpool,Male,1,<1,1,58.7,56.6,60.8,77
+2016 to 2018,England,Local Areas,E08000012,Liverpool,Female,2,<1,1,59.5,57.2,61.9,74
+2016 to 2018,England,Local Areas,E08000013,St. Helens,Male,1,<1,1,58.6,56.1,61.2,75
+2016 to 2018,England,Local Areas,E08000013,St. Helens,Female,2,<1,1,58.9,55.9,61.8,73
+2016 to 2018,England,Local Areas,E08000014,Sefton,Male,1,<1,1,63.3,61.2,65.3,80
+2016 to 2018,England,Local Areas,E08000014,Sefton,Female,2,<1,1,64.3,62.0,66.6,78
+2016 to 2018,England,Local Areas,E08000015,Wirral,Male,1,<1,1,62.0,59.7,64.3,79
+2016 to 2018,England,Local Areas,E08000015,Wirral,Female,2,<1,1,63.1,60.7,65.5,77
+2016 to 2018,England,Country,E92000001,England,Male,1,<1,1,63.3,63.1,63.5,80
+2016 to 2018,England,Country,E92000001,England,Female,2,<1,1,64.1,63.9,64.3,77
+2017 to 2019,England,Local Areas,E06000006,Halton,Male,1,<1,1,59.4,56.9,61.9,77
+2017 to 2019,England,Local Areas,E06000006,Halton,Female,2,<1,1,59.8,57.2,62.5,73
+2017 to 2019,England,Local Areas,E08000011,Knowsley,Male,1,<1,1,59.5,56.9,62.0,77
+2017 to 2019,England,Local Areas,E08000011,Knowsley,Female,2,<1,1,59.7,57.0,62.3,74
+2017 to 2019,England,Local Areas,E08000012,Liverpool,Male,1,<1,1,58.7,56.5,60.8,77
+2017 to 2019,England,Local Areas,E08000012,Liverpool,Female,2,<1,1,59.0,56.5,61.5,73
+2017 to 2019,England,Local Areas,E08000013,St. Helens,Male,1,<1,1,58.6,56.0,61.1,75
+2017 to 2019,England,Local Areas,E08000013,St. Helens,Female,2,<1,1,58.5,55.6,61.3,72
+2017 to 2019,England,Local Areas,E08000014,Sefton,Male,1,<1,1,63.8,61.7,65.8,81
+2017 to 2019,England,Local Areas,E08000014,Sefton,Female,2,<1,1,64.5,62.2,66.8,78
+2017 to 2019,England,Local Areas,E08000015,Wirral,Male,1,<1,1,62.0,59.7,64.3,79
+2017 to 2019,England,Local Areas,E08000015,Wirral,Female,2,<1,1,62.6,60.1,65.1,76
+2017 to 2019,England,Country,E92000001,England,Male,1,<1,1,63.2,63.0,63.4,79
+2017 to 2019,England,Country,E92000001,England,Female,2,<1,1,63.7,63.5,64.0,77
+2018 to 2020,England,Local Areas,E06000006,Halton,Male,1,<1,1,59.6,57.0,62.2,77
+2018 to 2020,England,Local Areas,E06000006,Halton,Female,2,<1,1,60.0,57.3,62.8,74
+2018 to 2020,England,Local Areas,E08000011,Knowsley,Male,1,<1,1,59.2,56.4,62.0,78
+2018 to 2020,England,Local Areas,E08000011,Knowsley,Female,2,<1,1,59.5,56.6,62.4,75
+2018 to 2020,England,Local Areas,E08000012,Liverpool,Male,1,<1,1,58.1,55.6,60.5,76
+2018 to 2020,England,Local Areas,E08000012,Liverpool,Female,2,<1,1,58.5,55.8,61.2,73
+2018 to 2020,England,Local Areas,E08000013,St. Helens,Male,1,<1,1,60.9,58.4,63.5,79
+2018 to 2020,England,Local Areas,E08000013,St. Helens,Female,2,<1,1,61.4,58.6,64.3,76
+2018 to 2020,England,Local Areas,E08000014,Sefton,Male,1,<1,1,63.8,61.7,65.9,82
+2018 to 2020,England,Local Areas,E08000014,Sefton,Female,2,<1,1,65.0,62.5,67.6,79
+2018 to 2020,England,Local Areas,E08000015,Wirral,Male,1,<1,1,62.0,59.7,64.2,80
+2018 to 2020,England,Local Areas,E08000015,Wirral,Female,2,<1,1,62.8,60.2,65.4,77
+2018 to 2020,England,Country,E92000001,England,Male,1,<1,1,63.1,62.9,63.3,80
+2018 to 2020,England,Country,E92000001,England,Female,2,<1,1,64.0,63.8,64.3,77
+2019 to 2021,England,Local Areas,E06000006,Halton,Male,1,<1,1,58.2,55.2,61.2,75
+2019 to 2021,England,Local Areas,E06000006,Halton,Female,2,<1,1,58.1,55.0,61.3,72
+2019 to 2021,England,Local Areas,E08000011,Knowsley,Male,1,<1,1,58.3,55.0,61.5,77
+2019 to 2021,England,Local Areas,E08000011,Knowsley,Female,2,<1,1,58.2,55.1,61.4,74
+2019 to 2021,England,Local Areas,E08000012,Liverpool,Male,1,<1,1,57.6,54.8,60.4,76
+2019 to 2021,England,Local Areas,E08000012,Liverpool,Female,2,<1,1,57.8,54.7,60.8,73
+2019 to 2021,England,Local Areas,E08000013,St. Helens,Male,1,<1,1,59.7,56.7,62.6,78
+2019 to 2021,England,Local Areas,E08000013,St. Helens,Female,2,<1,1,60.3,57.1,63.5,75
+2019 to 2021,England,Local Areas,E08000014,Sefton,Male,1,<1,1,62.7,60.4,65.1,81
+2019 to 2021,England,Local Areas,E08000014,Sefton,Female,2,<1,1,63.8,61.1,66.5,78
+2019 to 2021,England,Local Areas,E08000015,Wirral,Male,1,<1,1,61.1,58.6,63.7,79
+2019 to 2021,England,Local Areas,E08000015,Wirral,Female,2,<1,1,62.0,59.1,65.0,76
+2019 to 2021,England,Country,E92000001,England,Male,1,<1,1,62.7,62.5,62.9,79
+2019 to 2021,England,Country,E92000001,England,Female,2,<1,1,63.7,63.5,64.0,77
+2020 to 2022,England,Local Areas,E06000006,Halton,Male,1,<1,1,58.6,55.3,61.9,76
+2020 to 2022,England,Local Areas,E06000006,Halton,Female,2,<1,1,58.6,55.2,62.0,73
+2020 to 2022,England,Local Areas,E08000011,Knowsley,Male,1,<1,1,55.4,51.3,59.5,73
+2020 to 2022,England,Local Areas,E08000011,Knowsley,Female,2,<1,1,55.1,51.0,59.2,69
+2020 to 2022,England,Local Areas,E08000012,Liverpool,Male,1,<1,1,57.2,54.0,60.5,76
+2020 to 2022,England,Local Areas,E08000012,Liverpool,Female,2,<1,1,57.6,54.0,61.2,73
+2020 to 2022,England,Local Areas,E08000013,St. Helens,Male,1,<1,1,57.7,54.1,61.3,75
+2020 to 2022,England,Local Areas,E08000013,St. Helens,Female,2,<1,1,57.7,53.7,61.7,72
+2020 to 2022,England,Local Areas,E08000014,Sefton,Male,1,<1,1,61.2,58.4,64.0,79
+2020 to 2022,England,Local Areas,E08000014,Sefton,Female,2,<1,1,61.8,58.6,64.9,76
+2020 to 2022,England,Local Areas,E08000015,Wirral,Male,1,<1,1,59.5,56.6,62.5,77
+2020 to 2022,England,Local Areas,E08000015,Wirral,Female,2,<1,1,60.5,57.0,63.9,74
+2020 to 2022,England,Country,E92000001,England,Male,1,<1,1,62.3,62.1,62.5,79
+2020 to 2022,England,Country,E92000001,England,Female,2,<1,1,62.8,62.5,63.1,76
+2021 to 2023,England,Local Areas,E06000006,Halton,Male,1,<1,1,56.6,52.7,60.4,73
+2021 to 2023,England,Local Areas,E06000006,Halton,Female,2,<1,1,56.8,52.7,60.9,71
+2021 to 2023,England,Local Areas,E08000011,Knowsley,Male,1,<1,1,54.6,50.0,59.3,72
+2021 to 2023,England,Local Areas,E08000011,Knowsley,Female,2,<1,1,54.4,50.2,58.6,68
+2021 to 2023,England,Local Areas,E08000012,Liverpool,Male,1,<1,1,55.7,52.1,59.3,73
+2021 to 2023,England,Local Areas,E08000012,Liverpool,Female,2,<1,1,56.1,52.4,59.7,70
+2021 to 2023,England,Local Areas,E08000013,St. Helens,Male,1,<1,1,57.0,52.9,61.2,74
+2021 to 2023,England,Local Areas,E08000013,St. Helens,Female,2,<1,1,57.4,53.2,61.6,71
+2021 to 2023,England,Local Areas,E08000014,Sefton,Male,1,<1,1,60.4,56.9,63.8,77
+2021 to 2023,England,Local Areas,E08000014,Sefton,Female,2,<1,1,61.0,57.6,64.4,75
+2021 to 2023,England,Local Areas,E08000015,Wirral,Male,1,<1,1,58.5,54.9,62.0,75
+2021 to 2023,England,Local Areas,E08000015,Wirral,Female,2,<1,1,59.5,55.5,63.5,73
+2021 to 2023,England,Country,E92000001,England,Male,1,<1,1,61.5,61.3,61.8,78
+2021 to 2023,England,Country,E92000001,England,Female,2,<1,1,61.9,61.6,62.2,75
+2022 to 2024,England,Local Areas,E06000006,Halton,Male,1,<1,1,56.4,52.1,60.6,73
+2022 to 2024,England,Local Areas,E06000006,Halton,Female,2,<1,1,56.8,52.4,61.2,70
+2022 to 2024,England,Local Areas,E08000011,Knowsley,Male,1,<1,1,54.0,49.4,58.6,70
+2022 to 2024,England,Local Areas,E08000011,Knowsley,Female,2,<1,1,53.7,48.7,58.7,67
+2022 to 2024,England,Local Areas,E08000012,Liverpool,Male,1,<1,1,55.8,52.2,59.4,73
+2022 to 2024,England,Local Areas,E08000012,Liverpool,Female,2,<1,1,56.7,53.2,60.2,71
+2022 to 2024,England,Local Areas,E08000013,St. Helens,Male,1,<1,1,55.7,50.7,60.6,72
+2022 to 2024,England,Local Areas,E08000013,St. Helens,Female,2,<1,1,56.0,51.1,60.9,69
+2022 to 2024,England,Local Areas,E08000014,Sefton,Male,1,<1,1,59.0,55.5,62.5,75
+2022 to 2024,England,Local Areas,E08000014,Sefton,Female,2,<1,1,59.5,55.9,63.1,73
+2022 to 2024,England,Local Areas,E08000015,Wirral,Male,1,<1,1,59.1,55.5,62.7,76
+2022 to 2024,England,Local Areas,E08000015,Wirral,Female,2,<1,1,60.1,56.0,64.2,73
+2022 to 2024,England,Country,E92000001,England,Male,1,<1,1,60.9,60.7,61.2,77
+2022 to 2024,England,Country,E92000001,England,Female,2,<1,1,61.3,61.0,61.6,74
+2011 to 2013,Wales,Country,W92000004,Wales,Male,1,<1,1,61.3,60.9,61.8,78
+2011 to 2013,Wales,Country,W92000004,Wales,Female,2,<1,1,61.9,61.4,62.4,75
+2012 to 2014,Wales,Country,W92000004,Wales,Male,1,<1,1,61.4,60.9,61.8,78
+2012 to 2014,Wales,Country,W92000004,Wales,Female,2,<1,1,62.2,61.7,62.8,76
+2013 to 2015,Wales,Country,W92000004,Wales,Male,1,<1,1,61.2,60.8,61.7,78
+2013 to 2015,Wales,Country,W92000004,Wales,Female,2,<1,1,62.5,62.0,63.0,76
+2014 to 2016,Wales,Country,W92000004,Wales,Male,1,<1,1,61.3,60.8,61.7,78
+2014 to 2016,Wales,Country,W92000004,Wales,Female,2,<1,1,62.4,61.8,62.9,76
+2015 to 2017,Wales,Country,W92000004,Wales,Male,1,<1,1,61.2,60.7,61.7,78
+2015 to 2017,Wales,Country,W92000004,Wales,Female,2,<1,1,62.0,61.4,62.6,75
+2016 to 2018,Wales,Country,W92000004,Wales,Male,1,<1,1,61.2,60.7,61.7,78
+2016 to 2018,Wales,Country,W92000004,Wales,Female,2,<1,1,61.9,61.3,62.5,75
+2017 to 2019,Wales,Country,W92000004,Wales,Male,1,<1,1,61.3,60.8,61.8,78
+2017 to 2019,Wales,Country,W92000004,Wales,Female,2,<1,1,61.9,61.3,62.5,75
+2018 to 2020,Wales,Country,W92000004,Wales,Male,1,<1,1,61.4,60.9,62.0,79
+2018 to 2020,Wales,Country,W92000004,Wales,Female,2,<1,1,62.1,61.5,62.8,76
+2019 to 2021,Wales,Country,W92000004,Wales,Male,1,<1,1,61.3,60.7,61.9,79
+2019 to 2021,Wales,Country,W92000004,Wales,Female,2,<1,1,61.8,61.1,62.4,75
+2020 to 2022,Wales,Country,W92000004,Wales,Male,1,<1,1,60.8,60.1,61.4,78
+2020 to 2022,Wales,Country,W92000004,Wales,Female,2,<1,1,60.2,59.5,61.0,74
+2021 to 2023,Wales,Country,W92000004,Wales,Male,1,<1,1,60.3,59.6,61.0,77
+2021 to 2023,Wales,Country,W92000004,Wales,Female,2,<1,1,59.6,58.8,60.4,73
+2022 to 2024,Wales,Country,W92000004,Wales,Male,1,<1,1,59.2,58.4,59.9,76
+2022 to 2024,Wales,Country,W92000004,Wales,Female,2,<1,1,58.5,57.6,59.4,71
