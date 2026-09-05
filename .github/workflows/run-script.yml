@@ -19,7 +19,7 @@ jobs:
         run: uv sync
 
       - name: Run script
-        run: uv run healthly_life_expectancy_lcr
+        run: uv run healthly_life_expectancy_lcr.py
 
       - name: Commit updated xlsx files
         run: |
