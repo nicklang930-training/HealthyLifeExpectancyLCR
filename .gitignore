@@ -6,6 +6,8 @@ dist/
 wheels/
 *.egg-info
 healthylifeexpectancyuk.xlsx
+.env
 
 # Virtual environments
 .venv
+
