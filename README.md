@@ -8,7 +8,7 @@ The data shows the number of years people are expected to spend in “good” ge
 - Downloads the latest UK health state life expectancy dataset from ONS
 - There are two sheets of data:
 	- Healthy Life Expectancy between 2011 \& 2023
-	- The change in Healthy Life Expectancy between 2011 \& 2023
+	- The change in Healthy Life Expectancy between 2011 \& 2023 (England and Wales only)
 
  - Filters it down to the Liverpool City Region local authority areas (Liverpool, Knowsley, Sefton, St Helens, Wirral, Halton) plus England and Wales. It also filters the results to the under-1 age group to get  	healthy life expectancy if born today
 
