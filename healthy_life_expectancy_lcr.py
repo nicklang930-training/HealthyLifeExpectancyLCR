@@ -54,6 +54,7 @@ PIVOT_INDEX = ["Area code", "Area name", "Sex", "Age group"]
 PIVOT_COLUMNS = "Period"
 PIVOT_VALUES = ["HLE", "LCI", "UCI", "Proportion (%)"]
 
+
 @dataclass(frozen=True)
 class Settings:
     """Settings that can change between environments."""
@@ -88,6 +89,7 @@ def load_settings(env_path: Path | None = None) -> Settings:
         area_codes=area_codes,
         output_dir=Path(os.environ.get("OUTPUT_DIR") or "."),
     )
+
 
 def download_file(url, path):
     """Download the file at url and save it to path."""
@@ -187,7 +189,6 @@ def healthy_life_expectancy_lcr(settings: Settings):
 
     pivot_summary = build_pivot_summary(filtered_by_sheet[PIVOT_SOURCE_SHEET])
     write_output(pivot_meta, pivot_summary, output_dir / PIVOT_OUTPUT)
-
 
 
 if __name__ == "__main__":
