@@ -44,7 +44,7 @@ FILTER_SHEET_CONFIG = {
 }
 
 # Settings for rebuilding the pivot table on sheet 2 of the source data. The data
-# comes from the filtered PIVOT_SOURCE_SHEET and the meta data rows are 
+# comes from the filtered PIVOT_SOURCE_SHEET and the meta data rows are
 # read from PIVOT_SHEET itself.
 PIVOT_SOURCE_SHEET = "1"
 PIVOT_SHEET = "2"
@@ -100,7 +100,7 @@ def download_file(url, path):
 
 
 def read_meta(xls, sheet_name, meta_rows) -> pd.DataFrame:
-    """Read the title/notes rows above the table, keeping only the selected meta_rows (0-indexed)."""
+    """Read the title/notes rows above the table, keeping only meta_rows (0-indexed)."""
     metafull = pd.read_excel(
         xls, sheet_name=sheet_name, header=None, nrows=max(meta_rows) + 1
     )
