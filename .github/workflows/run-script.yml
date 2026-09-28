@@ -1,9 +1,12 @@
 name: Run data pipeline
 
 on:
-  workflow_dispatch:      
+  workflow_dispatch:
   schedule:
     - cron: '0 6 * * 1'
+
+permissions:
+  contents: write   # needed so the final step can push the commit back
 
 jobs:
   run-script:
@@ -19,13 +22,21 @@ jobs:
         run: uv sync
 
       - name: Run script
-        run: uv run healthly_life_expectancy_lcr.py
+        env:
+          DATA_URL: ${{ vars.DATA_URL }}
+          AREA_CODES: ${{ vars.AREA_CODES }}
+        run: uv run healthy_life_expectancy_lcr.py
 
       - name: Commit updated xlsx files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add HealthyLifeExpectancyLCR.xlsx
-          git add ChangeInHealthyLifeExpectancyLCR.xlsx
+          git add -f \
+            CoverSheet.xlsx \
+            Contents.xlsx \
+            Notes.xlsx \
+            HealthyLifeExpectancyLCR.xlsx \
+            ChangeInHealthyLifeExpectancyLCR.xlsx \
+            HealthyLifeExpectancyPivotLCR.xlsx
           git diff --staged --quiet || git commit -m "Update filtered XLSX files"
           git push
